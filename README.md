@@ -1,5 +1,6 @@
 # Complete Your First Software Engineering Assignment
 
+
 ## Learning Goals
 
 - Understand the steps needed to complete an assignment
